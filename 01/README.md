@@ -1,10 +1,10 @@
 # Pengenalan Kecerdasan Buatan
 
 Teori Menjelaskan :
-* Definisi Kecerdasan Buatan
-* Training
-* Accuracy
-* Data Preparasi
+* Definisi Kecerdasan Buatan : adalah teknologi yang memungkinkan komputeratau mesin untuk melakukan tugas-tugas yang memerlukan kecerdasan manusia
+* Training : adalah proses dimana model dilatih untuk mengenali pola dan membuat prediksi berdasarkan data yang diberikan.
+* Accuracy : adalah metrik untuk mengukur kinerja suatu model
+* Data Preparasi : adalah persiapan data dalam proses analisis data.
 
 ## Python
 
@@ -13,7 +13,7 @@ Teori Menjelaskan :
 Kerjakan :
 * Pahami bagaimana instalasi python
 * Pahami bagaimana menggunakan python di cmd atau terminal
-* Pahami kegunaan pip
+* Pahami kegunaan pip : untuk mneginstal paket yang di python
 * Pahami kegunaan file requirements.txt di python
 * Pahami sintaks dasar python
 
