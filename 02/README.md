@@ -3,10 +3,10 @@
 ![Alt text](image.png)
 
 Teori Menjelaskan :
-* Definisi Hyperparameter
-* Iterasi
-* Epoch
-* Batch Size
+* Definisi Hyperparameter : adalah parameter yang digunakan untuk mengontrol proses pembelajaran sebuah model
+* Iterasi : berapa kali menjalankan satu epoch
+* Epoch : satu putaran lengkap untuk melalui seluruh set data latih dari batch size
+* Batch Size : jumlah sampel data yang masuk dalam satu dikali pelatihan
 
 ## Pengembangan Dataset
 
