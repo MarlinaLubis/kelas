@@ -3,7 +3,7 @@
 ![Alt text](image.png)
 
 Teori Menjelaskan :
-* Definisi Hyperparameter : adalah parameter yang digunakan untuk mengontrol proses pembelajaran sebuah model
+* Definisi Hyperparameter : adalah parameter yang ditetapkan sebelum proses pelatihan model dimulai dan tidak diperbarui selama pelatihan.
 * Iterasi : berapa kali menjalankan satu epoch
 * Epoch : satu putaran lengkap untuk melalui seluruh set data latih dari batch size
 * Batch Size : jumlah sampel data yang masuk dalam satu dikali pelatihan
@@ -15,6 +15,9 @@ Kembangkan dataset dengan topik masing masing yang dipilih sebanyak 400+400 pasa
 ## Optimasi Hyperparameter
 
 Tentukan nilai nilai dan hitung akurasi dari setiap hyperparameter yang diubah
+* Batch size = 10, epoch = 300 : di testing dengan data yang valid = 6, tidak valid = 4 dihasilkan akurasi 60%.
+* Batch size = 20, epoch = 200 : ditesting dengan data yang valid = 7, tidak valid = 3 dihasilkan akurasi 70%.
+* Batch size = 30, epoch = 200 : ditesting dengan data yang valid = 7, tidak valid = 3 dihasilkan akurasi 70%
 
 ## Kerjakan
 
